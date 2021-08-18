@@ -1,0 +1,8 @@
+{
+  "name": "yarn-3.0.1",
+  "workspaces": [
+    "workspace-a",
+    "workspace-b",
+    "workspace-c"
+  ]
+}
